@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# `Esto es un proyecto del curso de iniciacion a React de Platzi`
 
-# Esto es un proyecto del curso de iniciacion a React de Platzi
+# Getting Started with Create React App
 
 ## Available Scripts
 
